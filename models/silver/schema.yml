@@ -1,6 +1,3 @@
-version: 2
-
-
 models:
   - name: silver
     description: "Silver DBT model"
@@ -15,4 +12,3 @@ sources:
       schema: SILVER
       tables:
         - name: WORK_PRODUCT_TRANSFORM
-        
